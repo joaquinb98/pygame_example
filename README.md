@@ -1,1 +1,3 @@
-# pygame_example
+# Pygame Example
+
+Easy usage of pygame to prototype UAV use case
